@@ -9,7 +9,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge&logo=openai)](https://openai.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore-ffca28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
@@ -132,13 +131,12 @@ In rural and underserved communities, patients travel hours — sometimes an ent
 | **Language** | TypeScript |
 | **Styling** | Tailwind CSS v3 |
 | **Animations** | Framer Motion |
-| **AI Engine** | OpenAI GPT-4o-mini (JSON mode) |
+| **AI Engine** | Gemini |
 | **Voice Input** | Web Speech API (free, browser-native) |
 | **Maps** | Google Maps JavaScript API + Places API |
 | **PDF Export** | jsPDF |
 | **Database** | Firebase Firestore |
 | **Validation** | Zod |
-| **Hosting** | Vercel |
 | **MCP Server** | @modelcontextprotocol/sdk |
 
 </div>
